@@ -20,6 +20,11 @@ module.exports = {
        animation: {
         fadeIn: "fadeIn 0.2s ease-in-out forwards",
       },
+        backgroundImage: {
+        'first': "url('../assets/startusingfiverr_freelance.png)",
+        'second': "url('../assets/pali_new_background.png')",
+        
+      },
     },
   },
   plugins: [],
