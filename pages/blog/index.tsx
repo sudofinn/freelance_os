@@ -26,11 +26,12 @@ const index = () => {
         <meta name="description" content="Blog of the  Freelance OS" />
       </Head>
 
+
     <section className="pt-20 lg:pt-[120px] pb-10 lg:pb-20 flex justify-center bg-black text-white">
    <div className="container">
 
-      <div className="flex flex-wrap justify-center -mx-4">
-         <div className="w-full px-4">
+      <div className="flex flex-wrap justify-center ">
+         <div className="w-full ">
             <div className="text-center mx-auto mb-[60px] lg:mb-20 ">
               
                <h2
@@ -51,9 +52,10 @@ const index = () => {
       </div>
 
 
-      <div className="flex flex-wrap -mx-4">
+      <div className="flex flex-wrap ">
 
-         <Link href="/blog/what-is-notion" className="w-full md:w-1/2 lg:w-1/3 px-4">
+
+         <Link href="/blog/what-is-notion" className="w-full md:w-1/2 lg:w-1/3 ">
             <div className="max-w-[370px] mx-auto mb-10">
                <div className="rounded overflow-hidden mb-8">
                   <Image src={SecondBlogPost} alt="first blog post" />
@@ -66,7 +68,7 @@ const index = () => {
                      inline-block
                      text-center
                      py-1
-                     px-4
+                     
                      text-xs
                      leading-loose
                      font-semibold
@@ -96,6 +98,8 @@ const index = () => {
                </div>
             </div>
          </Link>
+ 
+
 
 
          <Link href="/blog/start-youtube-channel" className="w-full md:w-1/2 lg:w-1/3 px-4">
@@ -316,6 +320,7 @@ const index = () => {
                </div>
             </div>
          </Link>
+  
       </div>
    </div>
 </section>
@@ -390,6 +395,7 @@ const index = () => {
 
 	</div>
 </div>
+  
 
 <SecondCallToActionEx />
 <Footer />
