@@ -42,7 +42,7 @@ cookie template
 <p>We and Gumroad use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with the Platform and your related choices.
 Capitalized terms used in this Cookie Policy but not defined here will have the meanings given to them in our <Link className='text-gray-500' href="/privacy">Privacy Policy</Link>.
 The Privacy Policy of Gumroad , a company which is used for payments, explains how they deal with Cookies in there <Link className='text-gray-500' href="https://gumroad.com/privacy">Privacy Policy</Link>.
-You may also contact at <Link  className="text-gray-500" href="mailto:figuzwei127@gmail.com">figuzwei127@gmail.com</Link>   with any additional questions. </p> 
+You may also contact at <Link  className="text-gray-500" href="mailto:...@gmail.com">...@gmail.com</Link>   with any additional questions. </p> 
 
 
 <h1 className="text-3xl font-extrabold mt-24"> What are Cookies, Pixels and Local Storage? </h1>
@@ -66,7 +66,7 @@ For analytics, we may  use Google Analytics. To opt out from Google Analytics, y
 <h1  className="text-3xl font-extrabold mt-24"> Changes to this Cookie Policy </h1>
 We may update this Cookie Policy from time to time, at our sole discretion. If so, we will post an updated Cookie Policy within the Platform. Changes, modifications, additions, or deletions will be effective immediately on their posting to the Platform. We encourage you to review this Cookie Policy regularly for any changes. Your continued use of the Platform and/or your continued provision of personal information to CodingNotes after the posting of the updated Cookie Policy will be subject to the terms of the then-current Privacy Policy and Cookie Policy. If you continue to use the Platform you will be deemed to have accepted the change.
 Contact Information: 
-If you have any questions or concerns about this Cookie Policy, please email at <Link className='text-gray-500' href="mailto:figuzwei127@gmail.com">figuzwei127@gmail.com </Link>.
+If you have any questions or concerns about this Cookie Policy, please email at <Link className='text-gray-500' href="mailto:...@gmail.com">...@gmail.com </Link>.
 
 
 

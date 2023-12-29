@@ -6,7 +6,7 @@ import Footer from "@/components/home/Footer";
 
 const Terms = () => {
   return (
-    <div className="bg-black  max-w-screen-lg mx-auto pt-12  text-center  p-4 flex flex-col justify-center w-full h-full text-white  ">
+    <div className=" text-2xl mx-auto pt-12  text-center  p-4 flex flex-col justify-center w-full h-full bg-black text-white  ">
       <Head>
         <title>Privacy</title>
         <meta name="description" content="Privacy for Freelance OS" />
@@ -26,7 +26,7 @@ const Terms = () => {
           you understand your privacy rights and choices. If you do not agree
           with our policies and practices, please do not use our Services. If
           you still have any questions or concerns, please contact us{" "}
-          <Link className="text-gray-500" href="mailto:figuzwei127@gmail.com">
+          <Link className="text-gray-500" href="mailto:...@gmail.com">
             here
           </Link>
           .{" "}
@@ -243,7 +243,7 @@ const Terms = () => {
           account and take reasonable measures to promptly delete such data from
           our records. If you become aware of any data we may have collected
           from children under age 18, please contact us at
-          <Link href="mailto:figuzwei127@gmail.com">here</Link>.
+          <Link href="mailto:...@gmail.com">here</Link>.
         </p>
         <h1 className="text-3xl font-extrabold mt-24">
           {" "}
@@ -351,9 +351,9 @@ const Terms = () => {
         <p>
           {" "}
           If you have questions or comments about this notice, you may email{" "}
-          <Link href="mailto:figuzwei127@gmail.com">
+          <Link href="mailto:...@gmail.com">
             {" "}
-            figuzwei127@gmail.com{" "}
+            ...@gmail.com{" "}
           </Link>{" "}
           .{" "}
         </p>

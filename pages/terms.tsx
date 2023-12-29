@@ -581,8 +581,8 @@ const Terms = () => {
           {" "}
           In order to resolve a complaint regarding the Site or to receive
           further information regarding use of the Site, please contact us at:{" "}
-          <Link className="text-gray-300" href="mailto:figuzwei127@gmail.com">
-            figuzwei127@gmail.com{" "}
+          <Link className="text-gray-300" href="mailto:...@gmail.com">
+            ...@gmail.com{" "}
           </Link>
         </p>
         <h3 className=" mt-12">

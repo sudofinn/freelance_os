@@ -22,24 +22,15 @@ const Footer = () => {
 						</Link>
 						<div className="flex gap-6 pb-5 hover:shadow-xl shadow-black duration-500">
 
-							<Link href="https://twitter.com/notionfreelance" target="_blank">
-								<FaTwitter className="text-2xl cursor-pointer  " />
-							</Link>
 							
-
-							<Link href="https://www.youtube.com/channel/UCGwAFdwyFG7rtQcevsQz1LQ" target="_blank">
-								<FaYoutube className="text-2xl cursor-pointer  duration-300" />
-							</Link>
-
-
-
 							<Link href="/" >
 								<AiFillHome className="text-2xl cursor-pointer  duration-300" />
 							</Link>
 
-
-
-							
+							<Link href="https://www.youtube.com/@freelanceos/videos" target="_blank">
+								<FaYoutube className="text-2xl cursor-pointer  duration-300" />
+							</Link>
+		
 
 							
 
@@ -53,12 +44,13 @@ const Footer = () => {
 							About
 						</li>
 						
-						<li onClick={() => Router.push("/founder")} className=" text-md pb-2 font-extrabold   cursor-pointer">
-							Founder
-						</li>
 						<li onClick={() => Router.push("/affiliates")} className=" text-md pb-2 font-extrabold   cursor-pointer">
 							Affiliate program
 							
+						</li>
+
+						<li onClick={() => Router.push("/contact")} className=" text-md pb-2 font-extrabold  cursor-pointer">
+							Contact
 						</li>
 					</ul>
 				</div>
@@ -76,9 +68,6 @@ const Footer = () => {
 						<li onClick={() => Router.push("/suggestatemplate")} className=" text-md pb-2 font-extrabold  cursor-pointer">
 							Suggest a Template
 						</li>
-						<li onClick={() => Router.push("/contact")} className=" text-md pb-2 font-extrabold  cursor-pointer">
-							Contact
-						</li>
 					</ul>
 				</div>
 				<div className="p-5">
@@ -94,16 +83,14 @@ const Footer = () => {
 						<li onClick={() => Router.push("/cookie_policy")} className="text-md pb-2 font-extrabold   cursor-pointer">
 							Cookie Policy
 						</li>
-						<li onClick={() => Router.push("/impressum")} className=" text-md pb-2 font-extrabold   cursor-pointer">
-							Impressum
-						</li>
+						
 						
 					</ul>
 				</div>
 			</div>
 			<div className="flex flex-col justify-center items-center text-center bg-black text-white  p-5 ">
 				<h1 className=" font-extrabold ">
-					© 2023 | All rights reserved | {" "}
+					© 2024 | All rights reserved | {" "}
 					<Link href="/" className=" font-extrabold  cursor-pointer">
 						Freelance OS{" "}
 					</Link>
